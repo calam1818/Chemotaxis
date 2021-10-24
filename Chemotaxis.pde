@@ -60,11 +60,11 @@ void draw(){
   star(40,450, 10,20,5);
   noStroke();
   fill(240,230,140);
-  circle(80,80,80);
+  ellipse(80,80,80,80);
   noStroke();
   fill(250,250,210);
-  circle(60,70,20);
-  circle(55,85,5);
+  ellipse(60,70,20,20);
+  ellipse(55,85,5,5);
     image(img,55,55,50,50);
   frameRate(10);
 
