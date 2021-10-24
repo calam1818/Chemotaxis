@@ -38,7 +38,7 @@ void setup(){
   colony=new Walker[8];
 for(int i =0;i<colony.length;i++){
   colony[i]=new Walker();
-   img = loadImage("witchh.png");
+   img = loadImage("witchhh.png");
    img1 = loadImage("batbat.png");
 }
 }
