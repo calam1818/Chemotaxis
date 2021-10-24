@@ -38,8 +38,8 @@ void setup(){
   colony=new Walker[8];
 for(int i =0;i<colony.length;i++){
   colony[i]=new Walker();
-   img = loadImage("witchh.png");
-   img1 = loadImage("batbat.png");
+   img = loadImage("http://clipart-library.com/images/kcMnn9qni.jpg");
+   img1 = loadImage("http://clipart-library.com/img/761041.png");
 }
 }
 void draw(){
